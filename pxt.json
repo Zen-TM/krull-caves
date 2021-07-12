@@ -1,0 +1,54 @@
+{
+    "name": "Krull Caves",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "animation": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.4.44",
+        "tag": "v1.4.44",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/a22995c560b516a501328716333b8cc8caf7cc9c",
+        "target": "1.4.45",
+        "pxt": "6.12.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#FF0000",
+        "#5b7693",
+        "#4c2c3a",
+        "#a9cd45",
+        "#8aa2ba",
+        "#5e398e",
+        "#57bfec",
+        "#181f26",
+        "#1f3574",
+        "#42643b",
+        "#2a463e",
+        "#e1e6ed",
+        "#ee1404",
+        "#e06f14",
+        "#b61131",
+        "#000000"
+    ]
+}
